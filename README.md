@@ -58,6 +58,7 @@ For Yocto light sensor library
 
 	g++ main.cpp *.o -lpthread -lusb-1.0
 
+abcd
 7.Connect the sensor module to the virtual box and run below command
 
 	./a.out any
